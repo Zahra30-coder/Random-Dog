@@ -1,0 +1,13 @@
+#main{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    background-color: brown;
+  
+
+}
+
+#dogImage{
+    margin: 70px;
+}
